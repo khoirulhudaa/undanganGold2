@@ -1306,6 +1306,7 @@ form {
         height: max-content;
         padding: 10px 20px;
         margin-top: 20px;
+        font-family: 'Poppins', sans-serif;
         border: 1px solid 
         rgba(181, 205, 163, 1);
         display: flex;
