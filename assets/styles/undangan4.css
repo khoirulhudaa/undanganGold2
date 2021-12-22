@@ -1491,6 +1491,7 @@ form {
     .section2 {
         position: relative;
         margin-top: 0px;
+        padding-top: 20px;
         background-color: #FFEBD3;
         background-image: url('../images/icons/GOLDEN\ STAINS\ 1.png');
         background-position: center;
