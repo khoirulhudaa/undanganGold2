@@ -1135,6 +1135,25 @@ form {
     align-items: center;
 }
 
+.kotak-menu:hover {
+    cursor: pointer;
+}
+
+.kotak-menu:hover img {
+    position: relative;
+    margin-top: -5px;
+    transition: 0.4s;
+    transform: scale(0.86);
+}
+
+.kotak-menu img {
+    margin-top: 0px;
+    width: 40px;
+    transition: 0.4s;
+    z-index: 444444444;
+}
+
+
 
 @media screen and (max-width: 620px) {
         
@@ -1210,7 +1229,7 @@ form {
         align-items: center;
         display: flex;
         font-size: 18px;
-        margin-top: 20px;
+        margin-top: 0px;
     }
 
     .code-small img {
